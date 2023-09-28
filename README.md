@@ -1,7 +1,7 @@
 
-## Olá, eu sou o Isaias 👋 
+## Hello, I'm Isaias 👋 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-souza-dev/)
+<p> Hi, I'm a sofware Enginner who worked on more than 30 projects. I've been developing on web javascript projects about one year, now I'm studying python,focusin on task automation and artificial Inteligence.😀 🧑‍💻 </p>
 
 
 ## I code with:
