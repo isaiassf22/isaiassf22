@@ -1,7 +1,7 @@
 
 ## Hello, I'm Isaias 👋 
 
-<p> Hi, I'm a sofware Enginner who has developed more than 30 projects. I've been developing on web javascript projects about one year. Now I'm studying python,focusin on task automation and artificial Inteligence.😀 🧑‍💻 </p>
+<p> Hi, I'm a developer who has developed more than 30 projects. I've been developing on web javascript projects about two years. Now I'm studying python,focusin on task automation and artificial Inteligence.😀 🧑‍💻 </p>
 
 
 ## I code with:
