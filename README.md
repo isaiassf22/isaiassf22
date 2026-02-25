@@ -22,7 +22,6 @@
   <br/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="40" width="52" alt="python logo"/>
    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" height="40" width="52" alt="django logo"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" height="40" width="52" alt="linux logo"/>
 </div>
 
 ###
